@@ -1,0 +1,27 @@
+.one{
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+}
+body{
+  background-color: black;
+  text-align: center;
+  font-family: verdana;
+}
+a{
+  color:aquamarine;
+  font-size:16px;
+}
+.two{
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+.three{
+  color: gray;
+  font-size: 21px;
+}
+.four{
+  color: grey;
+  text-align: right;
+}
